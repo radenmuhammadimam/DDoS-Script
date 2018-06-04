@@ -110,7 +110,7 @@ def get_parameters():
 		thr = opts.turbo
 
 
-# reading headers
+# Reading Headers
 global data
 headers = open("headers.txt", "r")
 data = headers.read()
