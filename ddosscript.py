@@ -1,4 +1,5 @@
-# Python 3.3.2+ - DDoS Script
+# DDoS Script
+# Python 3.3.2+
 
 from queue import Queue
 from optparse import OptionParser
